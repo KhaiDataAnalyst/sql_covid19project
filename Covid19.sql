@@ -160,7 +160,7 @@ WHERE total_fully_vaccinated IS NOT NULL
 -- Delete the table
 DROP TABLE IF EXISTS vaccination
 
-Select * from CovidDeaths
+
 
 
 
